@@ -238,7 +238,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">Talk: CI, Build &amp; Distribution</span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Sergey.L</span></em></p>
+<p><em><span style="font-weight: 400;">Sergey.I</span></em></p>
 </td>
 </tr>
 <tr>
